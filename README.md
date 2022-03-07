@@ -1,5 +1,6 @@
-## Iaan's Notes
+# Iaan's Notes
 
-### Summary 
+## Summary 
 
-This repository contains all of the notes taken by Iaan for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Iaan Johnston](https://github.com/double-slide) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/).
+
